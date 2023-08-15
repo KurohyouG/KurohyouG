@@ -2,7 +2,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects </b>
-  - [Creating a SOC Enviornment in Azure](https://github.com/KurohyouG/Azure-Project)
+  - [Cloud Honeynet / SOC (Full Project)](https://github.com/KurohyouG/Azure-Project)
+    - [Setup a SQL Server on Azure Virtula Machines (VMs)] ()
 
 <h2>📺 Popular YouTube Videos</h2>
 
