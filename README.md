@@ -3,7 +3,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects </b>
   - [Cloud Honeynet / SOC (Full Project)](https://github.com/KurohyouG/Azure-Project)
-    - [Setup a SQL Server on Azure Virtula Machines (VMs)] ()
+    - [Setup a SQL Server on Azure Virtula Machines (VMs)](https://github.com/KurohyouG/sql_on_vms)
 
 <h2>📺 Popular YouTube Videos</h2>
 
